@@ -1,0 +1,6 @@
+[CommandMethod("OSMload")]
+ [CommandMethod("Distance_Way")]
+[CommandMethod("Gpxload")]
+[CommandMethod("Gpxsave")]
+[CommandMethod("GPXRestore")]
+[CommandMethod("Distance_2Points")]

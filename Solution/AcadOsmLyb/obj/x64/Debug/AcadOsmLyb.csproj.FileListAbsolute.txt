@@ -1,0 +1,16 @@
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\obj\x64\Debug\AcadOsmLyb.csprojResolveAssemblyReference.cache
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\x64\Debug\AcadOsmLyb.dll
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\x64\Debug\AcadOsmLyb.pdb
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\x64\Debug\MKCoolsoft.GPXLib.dll
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\x64\Debug\OsmSharp.dll
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\x64\Debug\OsmSharp.Osm.dll
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\x64\Debug\OsmSharp.Routing.dll
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\x64\Debug\OsmSharp.UI.dll
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\x64\Debug\OsmSharp.WinForms.UI.dll
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\x64\Debug\protobuf-net.dll
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\x64\Debug\Zlib.Portable.dll
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\x64\Debug\protobuf-net.pdb
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\x64\Debug\protobuf-net.xml
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\x64\Debug\Zlib.Portable.pdb
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\obj\x64\Debug\AcadOsmLyb.dll
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\obj\x64\Debug\AcadOsmLyb.pdb

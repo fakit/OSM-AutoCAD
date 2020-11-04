@@ -1,0 +1,15 @@
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\Debug\AcadOsmLyb.dll
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\Debug\AcadOsmLyb.pdb
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\obj\Debug\AcadOsmLyb.csprojResolveAssemblyReference.cache
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\obj\Debug\AcadOsmLyb.dll
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\obj\Debug\AcadOsmLyb.pdb
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\Debug\OsmSharp.dll
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\Debug\protobuf-net.dll
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\Debug\MKCoolsoft.GPXLib.dll
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\Debug\accoremgd.dll
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\obj\Debug\AcadOsmLyb.OSM_Load.resources
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\obj\Debug\AcadOsmLyb.csproj.GenerateResource.Cache
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\Debug\AcadOsmLyb.dll.config
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\Debug\protobuf-net.pdb
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\bin\Debug\protobuf-net.xml
+C:\Users\afeus.DESKTOP-0MO2PKE\Desktop\AcadOsmLyb\AcadOsmLyb\obj\Debug\AcadOsmLyb.Cache_Manager.resources
